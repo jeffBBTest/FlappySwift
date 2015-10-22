@@ -3,6 +3,7 @@
 # FlappySwift
 
 CHANGEEE
+[![BuddyBuild](https://preproddashboard.buddybuild.com/api/statusImage?appID=56295c6d10e9110100a2c3ad&branch=master&build=latest)](https://preproddashboard.buddybuild.com/apps/56295c6d10e9110100a2c3ad/build/latest)
 
 change2
 
